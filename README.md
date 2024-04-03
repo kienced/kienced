@@ -1,6 +1,4 @@
-# hi there! 👋 i'm kien
-
-🌐 web designer | 🌿 digital gardener | 💹 algorithmic trader
+### hi there! 👋 i'm kien
 
 Welcome to my profile!
 
