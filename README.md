@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm kien
+# hi there! 👋 i'm kien
 
-🌐 Web Designer | 🌿 Digital Gardener | 💹 Algorithmic Trader
+🌐 web designer | 🌿 digital gardener | 💹 algorithmic trader
 
-Welcome to my GitHub profile!
+Welcome to my profile!
 
 <!---
 kienced/kienced is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
