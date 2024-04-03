@@ -1,6 +1,6 @@
-### hi there! 👋 i'm kien
+### hi there! i'm kien
 
-Welcome to my profile!
+welcome to my profile!
 
 <!---
 kienced/kienced is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
