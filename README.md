@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [kien]
+# Hi there! 👋 I'm kien
 
 🌐 Web Designer | 🌿 Digital Gardener | 💹 Algorithmic Trader
 
